@@ -4,7 +4,9 @@ It fixes broken corescripts, broken assets and broken play solo
 
 # Usage
 It pulls data from Content/localassets and Content/localstatic
+
 localassets directory just contains the asset ids to replace instead of redirecting to assetdelivery
+
 localstatic needs studio.ashx for corescript loading and visit.ashx for play solo
 
 # Building
